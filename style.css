@@ -492,6 +492,7 @@ li:hover{
     gap: 4rem;
     background-position: center;
     background-size: cover;
+    width: auto;
   }
   .navbar_title{
     font-size: 1.5rem;
@@ -505,12 +506,14 @@ li:hover{
     text-align: center;
     height: auto;
     padding-top: 5rem;
+    width: auto;
   }
 
   .first_section_first_main{
     padding-left: 20px;
     padding-right: 20px;
     font-size: 14px;
+    width: auto;
   }
 
   .first_section_second_main{
@@ -523,5 +526,6 @@ li:hover{
     justify-content: center;
     height: auto;
     padding: 50px 0;
+    width: auto;
   } 
 }
