@@ -399,7 +399,6 @@ li:hover{
   margin-bottom: 5px;
 }
 
-/* If you don't want the footer to be responsive, remove these media queries */
 
 @media (max-width: 880px) {
 
@@ -517,6 +516,7 @@ li:hover{
 
   .first_section_second_main{
     border: none;
+    width: auto;
   }
 
   .main_content_second_section{
