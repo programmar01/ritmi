@@ -116,7 +116,6 @@ li:hover{
     color: orange;
     border: 2px black solid;
     border-radius: 10px;
-    background-image: url(./images/first_image.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -481,6 +480,7 @@ li:hover{
   .nav_links{
     flex-direction: column;
     gap: 1rem;
+    text-align: center;
   }
   header{
     flex-direction: column;
@@ -505,6 +505,7 @@ li:hover{
     height: auto;
     padding-top: 5rem;
     width: auto;
+    padding-bottom: 4rem;
   }
 
   .first_section_first_main{
@@ -515,8 +516,8 @@ li:hover{
   }
 
   .first_section_second_main{
-    border: none;
     width: auto;
+    border: none;
   }
 
   .main_content_second_section{
@@ -527,4 +528,9 @@ li:hover{
     padding: 50px 0;
     width: auto;
   } 
+
+  .ppl_info{
+    padding-left: 30px;
+    padding-right: 30px;
+  }
 }
