@@ -305,6 +305,9 @@ li:hover{
   .navbar_title{
     font-size: 1.5rem;
   }
+  .maincontent{
+    flex-direction: column;
+  }
 }
 
 
