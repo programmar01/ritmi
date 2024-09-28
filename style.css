@@ -121,6 +121,9 @@ li:hover{
     background-size: cover;
 }
 
+.title_color{
+  color: white;
+}
 
 .first_section_second_main  button:hover{
     background-color: orange;

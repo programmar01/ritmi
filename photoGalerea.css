@@ -19,6 +19,10 @@
     align-items: center;
 }
 
+.title_color{
+  color: white;
+}
+
 header{
     display: flex;
     justify-content: space-between;
