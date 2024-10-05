@@ -5,68 +5,63 @@
 
 
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    scroll-behavior: smooth;
-    width: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 
 .navbar_title{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .title_color{
-  color: white;
+color: rgb(197, 197, 197);
 }
 
 header{
-    display: flex;
-    justify-content: space-between;
-    padding: 30px 40px;
-    color: rgb(197, 197, 197);
-    font-family: "Havelock Titling Bold";
-    background-image: url(./images/c3.png);
-    height: 500px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    position: sticky;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 40px;
+  color: rgb(197, 197, 197);
+  font-family: "Havelock Titling Bold";
+  background-image: url(./images/c3.png);
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: sticky;
 }
 
 nav ul{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
 
 nav a{
-    color: rgb(197, 197, 197);
+  color: rgb(197, 197, 197);
 
 }
 
 nav{
-    width: 35%;
+  width: 35%;
 }
 
 li{
-    list-style-type: none;
-    transition: 1000ms ease-in-out;
+  list-style-type: none;
+  transition: 1000ms ease-in-out;
 }
 
 a{
-    text-decoration: none;
+  text-decoration: none;
 }
 
 li:hover{
-  font-size: 1.5rem;
+font-size: 1.5rem;
 }
-
-
-
-
 
 
 
