@@ -136,6 +136,9 @@ li:hover{
     text-decoration: underline;
 }
 
+.last_color{
+  color: orange;
+}
 
 .main_content_second_section{
     height: 800px;
@@ -242,28 +245,6 @@ li:hover{
 .finfo{
     padding-top: 50px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -426,16 +407,13 @@ li:hover{
   cursor: pointer;
   background-color:  #33383b;
   border-radius: 2px;
-
   font-size: 20px;
   color: #ffffff;
   text-align: center;
   line-height: 35px;
-
   margin-right: 3px;
   margin-bottom: 5px;
 }
-
 
 @media (max-width: 880px) {
 
@@ -465,8 +443,17 @@ li:hover{
 
 
 
-
-
+.last_thing{
+  background-color: rgb(14, 14, 14);
+  color: white;
+  font-size: 1rem;
+  width: 100%;
+  margin: 0;
+  height: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 
 
