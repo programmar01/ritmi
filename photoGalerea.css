@@ -365,7 +365,7 @@ main{
 
 
 
-.card1,.card2,.card3,.card4,.card5,.card6,.card7,.card8,.card9,.card10,.card11,.card12,.card13,.card14{
+.card1,.card2,.card3,.card4,.card5,.card6,.card7,.card8,.card9,.card10,.card11,.card12,.card13,.card14,.card15,.card16,.card17,.card18{
   width: 1080px;
   height: 540px;
   display: flex;
@@ -428,8 +428,29 @@ main{
 }
 
 .card14{
-  background-image: url(./images/v13.png);
+  background-image: url(./images/v14.jpg);
 }
+
+.card15{
+  background-image: url(./images/v15.jpg);
+}
+
+.card16{
+  background-image: url(./images/v16.jpg);
+}
+
+.card17{
+  background-image: url(./images/v17.jpg);
+}
+
+.card18{
+  background-image: url(./images/v18.jpg);
+}
+
+
+
+
+
 
 
 .last_thing{
